@@ -1,0 +1,19 @@
+{
+    "name": "luky/escpos-php",
+    "type": "project",
+    "require": {
+        "mike42/escpos-php": "^4.0"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Luky\\EscposPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luky",
+            "email": "luzion1508@gmail.com"
+        }
+    ]
+}
